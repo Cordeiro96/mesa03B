@@ -1,4 +1,7 @@
-let nome = "Carlos Cordeiro"
-let passaTempo = "Jogar FIFA"
-let esporte = "Futebol"
-let membros = ["Carolina", "Edson", "Carlos"]
+let person = {
+    nome: 'Carlos Cordeiro',
+    passatempo: 'Jogar FIFA',
+    esporte: 'Futebol',
+    membros: ['Edson','Carolina', 'Carlos']
+    
+}
